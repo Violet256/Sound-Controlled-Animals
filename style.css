@@ -1,0 +1,29 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background: rgb(218, 143, 205);
+}
+
+.header_div {
+    background: rgb(222, 239, 255);
+    color: rgb(150, 100, 216);
+}
+
+.header_div p {
+    font-family: 'Robota', sans-serif;
+    color: rgb(238, 181, 57);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(22, 212, 181);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(255, 255, 182);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gainsboro;
+}
